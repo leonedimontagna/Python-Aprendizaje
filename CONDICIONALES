@@ -1,0 +1,26 @@
+# CONDICIONALES 
+# (if, else)
+
+#Ejemplo 1:
+
+n_nota = int(input("Introduzca nota: "))
+
+if n_nota > 5:
+    calificación = "Aprobado"
+else: calificación = "Suspenso"
+
+print(calificación)
+
+# (elif)
+
+#Ejemplo 2:
+
+edad = int(input("Introduzca edad"))
+
+if edad < 18:
+    print("No puedes pasar")
+elif edad > 100:
+    print("Edad incorrecta")
+else:
+    print("Adelante")
+

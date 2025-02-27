@@ -1,0 +1,20 @@
+# Entrada y Salida de datos
+
+# Ejemplo 1:
+
+s_nombreintroducido = input("Introduzca su nombre: ")
+
+print("Bienvenido", s_nombreintroducido)
+
+# Ejemplo 2:
+
+n_edad = int(input("Introduce su edad: "))
+
+print("El año que viene tendrá usted ", n_edad +1, "años")
+
+# Ejemplo 3:
+
+s_tusexo = input("Introduce tu sexo: ")
+
+print("Tu sexo es ", s_tusexo)
+
