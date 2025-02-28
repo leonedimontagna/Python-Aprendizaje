@@ -50,3 +50,5 @@ print(("nCH" in animal))
 # Con el not, le estamos indicando si esa cadena se encuentra o si no.
 animal = "  chanCHito feliz  "
 print(("nCH" not in animal))
+
+

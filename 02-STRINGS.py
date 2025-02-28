@@ -20,3 +20,5 @@ print(nombre_curso[:8])
 
 # Poniendo solo los dos puntos, nos dará como resultado la frase completa.
 print(nombre_curso[:])
+
+

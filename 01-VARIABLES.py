@@ -9,6 +9,3 @@ puntaje = 9.9  # Float o en español Número decimal.
 # Boolean solo funciona con la primera letra en mayúsculas y las demás en minúsculas.
 publicado = True/False
 
-
-
-Me parece aburrido
